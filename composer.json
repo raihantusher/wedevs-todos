@@ -1,4 +1,9 @@
 {
+    "description": "Todo List",
+	"name": "raihan/framewokr",
+	"type": "project",
+	"license": "MIT"
+    
     "require": {
         "catfan/medoo": "^1.7"
     },
